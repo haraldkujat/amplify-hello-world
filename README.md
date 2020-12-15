@@ -1,2 +1,2 @@
 # hello-world
-Tutorial Amplifie-App TK22
+Tutorial AWS Amplify-App TK22
